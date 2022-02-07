@@ -1,6 +1,6 @@
 # Analysis-Marketing-Campaign
 
-You’ve been told by Chief Marketing Officer that recent marketing campaigns have not been as effective as they were expected to be. You need to analyze the data in your data set to understand this problem. Use appropriate graphs and charts to present your analysis to the CMO.
+The following analyzes recent marketing campaigns that have not been as effective as they were expected to be.
 
 Part I: Statistical tests and Regression
 a.What factors are significantly related to the number of web purchases?  What would you suggest to CMO to improve web purchases?  
