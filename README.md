@@ -1,6 +1,6 @@
 # Analysis-Marketing-Campaign
 
-The following analyzes recent marketing campaigns that have not been as effective as they were expected to be.
+The following analyses recent marketing campaigns that have not been as effective as they were expected to be.
 
 Part I: Statistical tests and Regression
 a.What factors are significantly related to the number of web purchases?  What would you suggest to CMO to improve web purchases?  
@@ -17,13 +17,3 @@ Part II: Data Visualization: Build a dashboard using Excel
 In this section, you’re going to use the data set Marketing Campaign to answer some business questions using Excel.
 Please note that the questions below are just a guiding point for your analysis. 
 
-Q1. What factors seem to drive web purchases?
-Q2. Is there a relation between web visits and web purchases
-Q3. Is there a relation between geogrpahical region and success of a campaign
-Q4. What is the average amount spent on fruits
-Q5. Is the variation in amount spent on fish and and meat affected by any qualitative factors? If yes, which ones?
-Q6. Fish has Omega 3 fatty acids, good for brain, accordingly, do people with advanced degrees purchase more fish than others?
-Q7. Teenagers are fussy on food, which foods do families with teenagers spend most on?
-Q8. Which marketing campaign is most successful?
-Q9. What kind of people seem to be compaling most?
-Q10. What is the average age of customers given in the sample
